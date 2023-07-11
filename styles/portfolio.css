@@ -24,6 +24,7 @@ nav {
     justify-content: space-between;
     /* 2ta content 2 prante niye tader majhe space rakhar jonne */
     align-items: center;
+    margin: 0px 230px 0px 226px;
 }
 
 .nav-title {
@@ -46,4 +47,22 @@ nav li {
 nav a {
     text-decoration: none;
     color: #474747;
+}
+
+/* header related styles */
+
+.header {
+    background: #FFF8F3;
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile {
+    width: 584px;
+    height: 676px;
+   
 }
